@@ -87,4 +87,4 @@ jobs:
           # Для каждого пересобранного образа 
           # устанавливаем тег latest, чтобы потом
           # на сервере и в docker-compose.yml не указывать версию
-          tags: pulex/taski_backend:latest
+          tags: pul-stack/taski_backend:latest
